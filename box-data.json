@@ -1,0 +1,23 @@
+{
+  "summary": "Minimal box overview",
+  "boxes": [
+    {
+      "name": "British Artisan Heritage",
+      "products": [
+        "English Pewter Book Lover Bookmark",
+        "Handmade Green Ceramic Vase",
+        "Dried Flower Arrangement - Yellow",
+        "Handmade Bottle Ovens",
+        "Handmade Ceramic Rockpool Earrings",
+        "Handmade Body Butter Orange",
+        "Handmade Large Blue Ceramic Mug",
+        "Tea Tree Handmade Goats Milk Shampoo Bar",
+        "Scottish Heather Honey",
+        "Handmade Mosaic Pendant",
+        "Handmade Ginger & Lime Soap"
+      ],
+      "salePrice": 220
+    }
+  ],
+  "lastUpdated": "2025-06-05T16:27:31.026Z"
+}
