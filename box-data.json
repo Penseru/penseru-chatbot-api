@@ -2,15 +2,6 @@
   "summary": "Minimal box overview",
   "boxes": [
     {
-      "products": [
-        "Hand Knitted Burgundy Romper  0-3m",
-        "Handmade Baby Clothes 1 Girls",
-        "Cosy Cuddles Shea Butter Baby Soap",
-        "Handcrafted Sheep Toy"
-      ],
-      "salePrice": 125
-    },
-    {
       "name": "Artisan's Breakfast",
       "products": [
         "Handmade Ceramic Cup - Grey",
@@ -86,6 +77,16 @@
         "Reversible Hooded Top | Pale Grey / 6m"
       ],
       "salePrice": 120
+    },
+    {
+      "name": "Autumn Rose",
+      "products": [
+        "Hand Knitted Burgundy Romper  0-3m",
+        "Handmade Baby Clothes 1 Girls",
+        "Cosy Cuddles Shea Butter Baby Soap",
+        "Handcrafted Sheep Toy"
+      ],
+      "salePrice": 125
     },
     {
       "name": "Baby Blossoms",
@@ -1256,6 +1257,15 @@
       "salePrice": 95
     },
     {
+      "name": "Pink Blossom",
+      "products": [
+        "Hand Knitted Dark Pink and White \"Bear\" 0-3 Month Set",
+        "Cosy Cuddles Baby Barrier Cream",
+        "Handcrafted Rabbit"
+      ],
+      "salePrice": 90
+    },
+    {
       "name": "Pink Dreams",
       "products": [
         "Hooded Cardigan 6-9m",
@@ -1473,5 +1483,5 @@
       "salePrice": 70
     }
   ],
-  "lastUpdated": "2025-06-09T10:20:45.566Z"
+  "lastUpdated": "2025-06-09T11:20:45.224Z"
 }
