@@ -15,6 +15,21 @@
       "salePrice": 125
     },
     {
+      "name": "Artisan's Haven",
+      "products": [
+        "Dried Flower Arrangement - Natural",
+        "Hand Thrown Green Espresso Cup",
+        "Jasmine Green Tea - 50g Loose - Grown in Cornwall",
+        "Hand Turned Oak Bud Vase",
+        "Hand Turned Wood Pin Cushion",
+        "Lemongrass, Tea Tree & Charcoal Beeswax Soap 100g",
+        "Sisal Soap Bag",
+        "Gardener's Lavender Hand Cream",
+        "Handmade Rhubarb & Vanilla Jam 227g"
+      ],
+      "salePrice": 165
+    },
+    {
       "name": "Artisan's Kitchen",
       "products": [
         "Hand Thrown Pink Espresso Mug",
@@ -278,6 +293,17 @@
         "Reusable Tea Bag"
       ],
       "salePrice": 100
+    },
+    {
+      "name": "British Gentleman",
+      "products": [
+        "Citizen Spritz - Passion Fruit 500ml",
+        "Tregothnan English Breakfast - 25 Tea Bags - Grown in Cornwall",
+        "Kent Brushes Medium Ivory Synthetic Shaving Brush",
+        "Bearded Wonder - Beard Balm for beard and skin 100g",
+        "Frankincense & Bergamot Scented Olive Oil Enriched Gift Soap"
+      ],
+      "salePrice": 120
     },
     {
       "name": "British Spa Retreat",
@@ -1504,5 +1530,5 @@
       "salePrice": 70
     }
   ],
-  "lastUpdated": "2025-06-09T14:20:47.663Z"
+  "lastUpdated": "2025-06-09T15:20:46.382Z"
 }
