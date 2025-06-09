@@ -377,6 +377,19 @@
       "salePrice": 120
     },
     {
+      "name": "Classic Gentleman",
+      "products": [
+        "Tregothnan Black Tea Selection Box - Grown in Cornwall",
+        "Frankincense & Bergamot Scented Olive Oil Enriched Gift Soap",
+        "Handmade Elegant Elderflower Jelly 125g",
+        "Handmade Lemon Curd 125g",
+        "Calendula Shaving Soap 125g",
+        "Kent Brushes Beard Brush Horse Hair",
+        "Handmade Green Ceramic Mug with Twisted Handle"
+      ],
+      "salePrice": 80
+    },
+    {
       "name": "Comfort & Calm",
       "products": [
         "Kinalba Cashmere Grey Socks",
@@ -876,6 +889,19 @@
         "Kent Brushes White Bristle Nail Brush "
       ],
       "salePrice": 100
+    },
+    {
+      "name": "Green Thumb Sanctuary",
+      "products": [
+        "Gardener's Lavender Olive Handwash 500ml",
+        "Gardener's Lavender Hand Cream",
+        "Tregothnan Classic Loose Leaf Tea Tin - Grown in Cornwall",
+        "Reusable Tea Bag",
+        "Headache Balm - 30g Handmade In Dorset",
+        "Natural Gardener's Muscle Rub - Essential Oils",
+        "Kent Brushes Oval Nail Brush"
+      ],
+      "salePrice": 105
     },
     {
       "name": "Grey Comfort",
@@ -1530,5 +1556,5 @@
       "salePrice": 70
     }
   ],
-  "lastUpdated": "2025-06-09T15:20:46.382Z"
+  "lastUpdated": "2025-06-09T16:20:48.298Z"
 }
