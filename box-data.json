@@ -3,12 +3,12 @@
   "boxes": [
     {
       "products": [
-        "Handcrafted Mice Ballerina",
-        "Hand Knitted White Romper with Hat and Bootees 0-3m",
-        "Patchouli Lime Salt Handmade Goats Milk Bar",
-        "Sisal Soap Bag"
+        "Hand Knitted Burgundy Romper  0-3m",
+        "Handmade Baby Clothes 1 Girls",
+        "Cosy Cuddles Shea Butter Baby Soap",
+        "Handcrafted Sheep Toy"
       ],
-      "salePrice": 95
+      "salePrice": 125
     },
     {
       "name": "Artisan's Breakfast",
@@ -1303,6 +1303,16 @@
       "salePrice": 185
     },
     {
+      "name": "Pure Elegance",
+      "products": [
+        "Handcrafted Mice Ballerina",
+        "Hand Knitted White Romper with Hat and Bootees 0-3m",
+        "Patchouli Lime Salt Handmade Goats Milk Bar",
+        "Sisal Soap Bag"
+      ],
+      "salePrice": 95
+    },
+    {
       "name": "Seasonal Bloom",
       "products": [
         "Handmade Blackberry & Elderflower Jam 340g",
@@ -1463,5 +1473,5 @@
       "salePrice": 70
     }
   ],
-  "lastUpdated": "2025-06-09T09:20:47.326Z"
+  "lastUpdated": "2025-06-09T10:20:45.566Z"
 }
