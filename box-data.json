@@ -456,6 +456,17 @@
       "salePrice": 125
     },
     {
+      "name": "Country Garden Luxury Baby Gift Box",
+      "products": [
+        "Hand Knitted Green & White 0-3 Month Baby Set",
+        "Handcrafted Bunny in Sweater and Plaid Trousers",
+        "Sisal Soap Bag",
+        "Handmade Honey & Oats Goat Milk Soap",
+        "Handcrafted Rabbit/Mouse Clothing"
+      ],
+      "salePrice": 100
+    },
+    {
       "name": "Countryside Comforts",
       "products": [
         "Handmade Rhubarb & Vanilla Jam 227g",
@@ -1219,6 +1230,16 @@
       "salePrice": 155
     },
     {
+      "name": "Pastel Paradise",
+      "products": [
+        "Hand Knitted White, Pink & Purple 0-3 Month Baby Set",
+        "Handcrafted Rabbit/Mouse Clothing",
+        "Handcrafted Rabbit",
+        "Cosy Cuddles Baby Barrier Cream"
+      ],
+      "salePrice": 100
+    },
+    {
       "name": "Peaceful Beginnings",
       "products": [
         "Hand Knitted Jumper and Bobble Hat - 0-3m",
@@ -1483,5 +1504,5 @@
       "salePrice": 70
     }
   ],
-  "lastUpdated": "2025-06-09T11:20:45.224Z"
+  "lastUpdated": "2025-06-09T12:20:47.342Z"
 }
