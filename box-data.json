@@ -1,5 +1,5 @@
 {
-  "summary": "Minimal box overview",
+  "summary": "Penseru box inventory with delivery and contact information",
   "boxes": [
     {
       "name": "Artisan's Breakfast",
@@ -12,7 +12,8 @@
         "Handmade Dusk 'til Dawn Face Cream",
         "Handmade Ceramic Egg Cup"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/artisanal-teatime"
     },
     {
       "name": "Artisan's Haven",
@@ -27,7 +28,8 @@
         "Gardener's Lavender Hand Cream",
         "Handmade Rhubarb & Vanilla Jam 227g"
       ],
-      "salePrice": 165
+      "salePrice": 165,
+      "websiteURL": "https://www.penseru.com/shop/p/artisans-breakfast"
     },
     {
       "name": "Artisan's Kitchen",
@@ -42,7 +44,8 @@
         "English Oak Turned Plate",
         "Hand Thrown Blue Espresso Mug"
       ],
-      "salePrice": 195
+      "salePrice": 195,
+      "websiteURL": "https://www.penseru.com/shop/p/artisans-haven"
     },
     {
       "name": "Artisan's Pantry",
@@ -57,7 +60,8 @@
         "Scottish Heather Honey",
         "Wooden Honey Dipper"
       ],
-      "salePrice": 170
+      "salePrice": 170,
+      "websiteURL": "https://www.penseru.com/shop/p/artisans-kitchen"
     },
     {
       "name": "Artisan's Workshop",
@@ -68,20 +72,8 @@
         "Handcrafted Rabbit",
         "Scottish Blossom Honey"
       ],
-      "salePrice": 210
-    },
-    {
-      "name": "Artisanal Teatime",
-      "products": [
-        "Handmade Mango & Ginger Chutney",
-        "Pure Shropshire Runny Honey (340g)",
-        "Wooden Honey Dipper",
-        "Handmade Orange & Ginger Preserve",
-        "Lavender Earl Grey Tea Bags (pack of 20)",
-        "Handmade Notepad",
-        "Hand Thrown Green Glaze Ceramic Mug"
-      ],
-      "salePrice": 120
+      "salePrice": 210,
+      "websiteURL": "https://www.penseru.com/shop/p/artisans-workshop"
     },
     {
       "name": "Autumn Cuddles",
@@ -91,7 +83,8 @@
         "Cosy Cuddles Baby Barrier Cream",
         "Reversible Hooded Top | Pale Grey / 6m"
       ],
-      "salePrice": 120
+      "salePrice": 120,
+      "websiteURL": "https://www.penseru.com/shop/p/autumn-cuddles"
     },
     {
       "name": "Autumn Rose",
@@ -101,7 +94,8 @@
         "Cosy Cuddles Shea Butter Baby Soap",
         "Handcrafted Sheep Toy"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/autumn-rose"
     },
     {
       "name": "Baby Blossoms",
@@ -117,7 +111,8 @@
         "Handmade Calendula Salve",
         "Handmade Cocoa Body Butter"
       ],
-      "salePrice": 155
+      "salePrice": 155,
+      "websiteURL": "https://www.penseru.com/shop/p/baby-blossoms"
     },
     {
       "name": "Beekeepers Bounty",
@@ -134,7 +129,8 @@
         "Handmade Raspberry & Ginger Cordial",
         "Calm Aromatherapy Beeswax Candle"
       ],
-      "salePrice": 185
+      "salePrice": 185,
+      "websiteURL": "https://www.penseru.com/shop/p/beekeepers-bounty"
     },
     {
       "name": "Blue Wonder",
@@ -145,7 +141,8 @@
         "Newborn Baby Hat with Ears | Blue",
         "Cosy Cuddles Baby Balm with Rosehip Oil"
       ],
-      "salePrice": 140
+      "salePrice": 140,
+      "websiteURL": "https://www.penseru.com/shop/p/blue-wonder"
     },
     {
       "name": "Botanical Bath & Breakfast",
@@ -159,21 +156,8 @@
         "Calming Botanical Bath Salts | Patchouli & Lime",
         "Botanical Calming Wax Drops | Patchouli and Lime"
       ],
-      "salePrice": 75
-    },
-    {
-      "name": "Botanical Bath & Breakfast",
-      "products": [
-        "Handmade Rhubarb & Vanilla Jam 340g",
-        "Handmade Yorkshire Honey 125g",
-        "Lavender Unscented Eye Pillow",
-        "Bumblebee Lavender Sachet",
-        "Sisal Soap Bag",
-        "Ginger and Lemon Botanical Tea Soap ~ 100g",
-        "Calming Botanical Bath Salts | Patchouli & Lime",
-        "Botanical Cleansing Wax Drops | Sandalwood and Bergamot"
-      ],
-      "salePrice": 75
+      "salePrice": 75,
+      "websiteURL": "https://www.penseru.com/shop/p/botanical-bath-breakfast"
     },
     {
       "name": "Botanical Bathing",
@@ -186,7 +170,8 @@
         "Sandalwood Scented Room Spray",
         "Handmade Calendula Sugar Scrub"
       ],
-      "salePrice": 95
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/botanical-bathing"
     },
     {
       "name": "Botanical Beauty",
@@ -197,7 +182,8 @@
         "Handmade Strawberry & Elderflower Jam 125g",
         "Relax Room and Linen Spray - 100g"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/botanical-beauty"
     },
     {
       "name": "Botanical Beauty Retreat",
@@ -211,7 +197,8 @@
         "Sweet Orange Patchouli and Lavender Whipped Body Butter 90g",
         "Citronella Beeswax Aromatherapy Candle"
       ],
-      "salePrice": 150
+      "salePrice": 150,
+      "websiteURL": "https://www.penseru.com/shop/p/botanical-beauty-retreat"
     },
     {
       "name": "Botanical Bliss",
@@ -224,7 +211,8 @@
         "Handmade Dried Lavender Bouquet",
         "Handmade Forget-Me-Not Earrings"
       ],
-      "salePrice": 110
+      "salePrice": 110,
+      "websiteURL": "https://www.penseru.com/shop/p/botanical-bliss"
     },
     {
       "name": "Botanical Retreat",
@@ -237,20 +225,8 @@
         "Garden Green Fern Unscented Eye Pillow",
         "Dotty Multi Lavender Sachet"
       ],
-      "salePrice": 85
-    },
-    {
-      "name": "Botanical Retreat",
-      "products": [
-        "Wildflower Sterling Silver Studs",
-        "Clarify Beeswax Aromatherapy Candle (Lime, Basil & Mandarin)",
-        "Lemongrass, Tea Tree & Charcoal Beeswax Soap 100g",
-        "Sisal Soap Bag",
-        "Handmade Yorkshire Honey 125g",
-        "Garden Green Fern Unscented Eye Pillow",
-        "Dotty Multi Lavender Sachet"
-      ],
-      "salePrice": 85
+      "salePrice": 85,
+      "websiteURL": "https://www.penseru.com/shop/p/botanical-retreat"
     },
     {
       "name": "Botanical Treasures",
@@ -262,7 +238,8 @@
         "Handmade Blue Flower Ceramic Pendant",
         "Electroformed Copper Leaf Pendant"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/botanical-treasures"
     },
     {
       "name": "British Artisan Heritage",
@@ -279,7 +256,8 @@
         "Handmade Mosaic Pendant",
         "Handmade Ginger & Lime Soap"
       ],
-      "salePrice": 220
+      "salePrice": 220,
+      "websiteURL": "https://www.penseru.com/shop/p/british-artisan-heritage"
     },
     {
       "name": "British Comforts",
@@ -292,7 +270,8 @@
         "Clarify Beeswax Aromatherapy Candle (Lime, Basil & Mandarin)",
         "Reusable Tea Bag"
       ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/british-comforts"
     },
     {
       "name": "British Gentleman",
@@ -303,7 +282,8 @@
         "Bearded Wonder - Beard Balm for beard and skin 100g",
         "Frankincense & Bergamot Scented Olive Oil Enriched Gift Soap"
       ],
-      "salePrice": 120
+      "salePrice": 120,
+      "websiteURL": "https://www.penseru.com/shop/p/british-gentleman"
     },
     {
       "name": "British Spa Retreat",
@@ -317,7 +297,8 @@
         "Sisal Soap Bag",
         "Rose Sterling Silver & Plated Rose Gold Studs"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/british-spa-retreat"
     },
     {
       "name": "Busy Bee Honey Collection",
@@ -328,7 +309,8 @@
         "Honeycomb Beeswax Soap Bar 100g",
         "Queen Bee Beeswax Soap Bar 65g | Chamomile & Bergamot"
       ],
-      "salePrice": 60
+      "salePrice": 60,
+      "websiteURL": "https://www.penseru.com/shop/p/busy-bee-honey-collection"
     },
     {
       "name": "Citrus & Botanicals",
@@ -344,7 +326,8 @@
         "Handmade Cosmos Real Flower Ring",
         "Handmade Seville Orange Thin Cut Marmalade 340g"
       ],
-      "salePrice": 115
+      "salePrice": 115,
+      "websiteURL": "https://www.penseru.com/shop/p/citrus-botanicals"
     },
     {
       "name": "Citrus & Lavender Sanctuary",
@@ -358,7 +341,8 @@
         "Handmade Orange & Honey Lip Scrub",
         "Handmade Seville Orange Thin Cut Marmalade 340g"
       ],
-      "salePrice": 90
+      "salePrice": 90,
+      "websiteURL": "https://www.penseru.com/shop/p/citrus-lavender-sanctuary"
     },
     {
       "name": "Citrus & Sunshine Retreat",
@@ -374,7 +358,8 @@
         "Hand-Knitted Face/Body Scrubs",
         "Handmade Large Blue Ceramic Mug"
       ],
-      "salePrice": 120
+      "salePrice": 120,
+      "websiteURL": "https://www.penseru.com/shop/p/citrus-sunshine-retreat"
     },
     {
       "name": "Classic Gentleman",
@@ -387,7 +372,8 @@
         "Kent Brushes Beard Brush Horse Hair",
         "Handmade Green Ceramic Mug with Twisted Handle"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/classic-gentleman"
     },
     {
       "name": "Comfort & Calm",
@@ -401,21 +387,8 @@
         "Bumblebee Unscented Eye Pillow",
         "Orange Vegan and Organic Lip Balm ~ 15g"
       ],
-      "salePrice": 100
-    },
-    {
-      "name": "Comfort & Calm",
-      "products": [
-        "Kinalba Cashmere Grey Socks",
-        "Handmade Calendula Sugar Scrub",
-        "Handmade Rhubarb & Vanilla Jam 227g",
-        "Handmade St Clements Curd 227g",
-        "Sleep Easy Botanical Salt Blend | Lavender & Spearmint",
-        "French Lavender Lavender Sachet",
-        "Bumblebee Unscented Eye Pillow",
-        "Orange Vegan and Organic Lip Balm ~ 15g"
-      ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/comfort-calm"
     },
     {
       "name": "Cosy Beginnings",
@@ -425,7 +398,8 @@
         "Handcrafted Bear Toy",
         "Hand Knitted Light Grey Romper Suit with Hat and Bootees 0-3 Months"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/cosy-beginnings"
     },
     {
       "name": "Cosy Comforts",
@@ -439,21 +413,8 @@
         "Kinalba Cashmere Grey Socks",
         "Witchcraft Candle | Frankincense & Myrrh | 180ml"
       ],
-      "salePrice": 100
-    },
-    {
-      "name": "Cosy Comforts",
-      "products": [
-        "Handmade Strawberry & Elderflower Jam 340g",
-        "Salted Caramel Flavoured Syrup For Coffee & Desserts | 250ml ",
-        "Handmade Lovely Lavender Jelly 125g",
-        "Frankincense & Bergamot Scented Olive Oil Enriched Gift Soap",
-        "Handmade Calendula Oil Roll-on",
-        "Lavender Lavender Eye Pillow",
-        "Kinalba Cashmere Grey Socks",
-        "Witchcraft Candle | Frankincense & Myrrh | 180ml"
-      ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/cosy-comforts"
     },
     {
       "name": "Cosy Home",
@@ -467,7 +428,8 @@
         "Calm Aromatherapy Beeswax Candle",
         "Honeycomb Beeswax Soap Bar 100g"
       ],
-      "salePrice": 95
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/cosy-home"
     },
     {
       "name": "Cottage Comforts",
@@ -480,7 +442,8 @@
         "Handmade Soaps - Various",
         "Handmade Calendula Salve"
       ],
-      "salePrice": 145
+      "salePrice": 145,
+      "websiteURL": "https://www.penseru.com/shop/p/cottage-comforts"
     },
     {
       "name": "Cottage Garden Serenity",
@@ -492,7 +455,8 @@
         "Highland Cattle Lavender Sachet",
         "Handmade Daisy Real Flower Earrings"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/cottage-garden-serenity"
     },
     {
       "name": "Country Garden Luxury Baby Gift Box",
@@ -503,7 +467,8 @@
         "Handmade Honey & Oats Goat Milk Soap",
         "Handcrafted Rabbit/Mouse Clothing"
       ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/country-garden"
     },
     {
       "name": "Countryside Comforts",
@@ -516,7 +481,8 @@
         "Handmade Elegant Elderflower Jelly 125g",
         "Scottish Heather Honey"
       ],
-      "salePrice": 75
+      "salePrice": 75,
+      "websiteURL": "https://www.penseru.com/shop/p/countryside-comforts"
     },
     {
       "name": "Countryside Friends",
@@ -529,7 +495,8 @@
         "Soft Baby Muslin Cloth 60cm",
         "Beeswax Teddy In A Bow Tie Candle"
       ],
-      "salePrice": 135
+      "salePrice": 135,
+      "websiteURL": "https://www.penseru.com/shop/p/countryside-friends"
     },
     {
       "name": "Countryside Retreat",
@@ -540,7 +507,8 @@
         "Pair of Beeswax Candles - Small",
         "Cox & Co Dark Chocolate - Single Origin"
       ],
-      "salePrice": 110
+      "salePrice": 110,
+      "websiteURL": "https://www.penseru.com/shop/p/countryside-retreat"
     },
     {
       "name": "Cuddly Beginnings",
@@ -554,20 +522,8 @@
         "Beeswax Teddy In A Bow Tie Candle",
         "Mouse Onesie and Bib Set | Grey / 6m"
       ],
-      "salePrice": 175
-    },
-    {
-      "name": "Daybreak Delights",
-      "products": [
-        "Tanzania Mbili Twiga Coarse Ground Coffee",
-        "Handmade Blue and Black Ceramic Mug",
-        "Scottish Blossom Honey",
-        "Grapefruit and Bergamot Luxury Body Cream with Cypress & Fig",
-        "Sandalwood Nurturing Solid Shampoo Bar In a Compostable Wrap",
-        "Hand-Knitted Face/Body Scrubs",
-        "Reusable Tea Bag"
-      ],
-      "salePrice": 90
+      "salePrice": 175,
+      "websiteURL": "https://www.penseru.com/shop/p/cuddly-beginnings"
     },
     {
       "name": "Daybreak Essentials",
@@ -578,7 +534,8 @@
         "Coffee Soap - with exfoliating coffee grinds and coffee oil",
         "Kinalba Cashmere Grey Socks"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/daybreak-essentials"
     },
     {
       "name": "Distinguished Calm",
@@ -591,7 +548,8 @@
         "Cuban Havana Handmade Scented Candle",
         "Handmade Blackberry & Elderflower Jam 125g"
       ],
-      "salePrice": 130
+      "salePrice": 130,
+      "websiteURL": "https://www.penseru.com/shop/p/distinguished-calm"
     },
     {
       "name": "Distinguished Comforts",
@@ -607,7 +565,8 @@
         "Kent Brushes Medium Ivory Synthetic Shaving Brush",
         "Kinalba Cashmere Grey Socks"
       ],
-      "salePrice": 155
+      "salePrice": 155,
+      "websiteURL": "https://www.penseru.com/shop/p/distinguished-comforts"
     },
     {
       "name": "Dreamland Lullaby",
@@ -621,7 +580,8 @@
         "French Lavender Lavender Sachet",
         "Human Alarm Clock New Baby Soy Wax Candle"
       ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/dreamland-lullaby"
     },
     {
       "name": "Enchanted Childhood",
@@ -632,7 +592,8 @@
         "Extra Large Mouse Blanket | Pink Mice",
         "Beeswax Teddy In A Bow Tie Candle"
       ],
-      "salePrice": 200
+      "salePrice": 200,
+      "websiteURL": "https://www.penseru.com/shop/p/enchanted-childhood"
     },
     {
       "name": "English Garden Retreat",
@@ -646,7 +607,8 @@
         "Handmade Lemon Curd 125g",
         "Bumblebee Lavender Sachet"
       ],
-      "salePrice": 95
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/english-garden-retreat"
     },
     {
       "name": "English Garden Tea Time",
@@ -659,7 +621,8 @@
         "Reusable Tea Bag",
         "Handmade Large Blue Ceramic Mug"
       ],
-      "salePrice": 70
+      "salePrice": 70,
+      "websiteURL": "https://www.penseru.com/shop/p/english-garden-tea-time"
     },
     {
       "name": "Eternal Blooms",
@@ -673,7 +636,8 @@
         "Handmade Ceramic Bowl",
         "Wildflower Blue Lavender Eye Pillow"
       ],
-      "salePrice": 140
+      "salePrice": 140,
+      "websiteURL": "https://www.penseru.com/shop/p/eternal-blooms"
     },
     {
       "name": "Everyday Luxuries",
@@ -685,7 +649,8 @@
         "Kinalba Cashmere Grey Socks",
         "Reusable Tea Bag"
       ],
-      "salePrice": 90
+      "salePrice": 90,
+      "websiteURL": "https://www.penseru.com/shop/p/everyday-luxuries"
     },
     {
       "name": "Flora & Fauna Artistry",
@@ -700,7 +665,8 @@
         "Lavender Calm Sleep Balm - 30g, Handmade In Dorset",
         "Handmade Soaps - Various"
       ],
-      "salePrice": 245
+      "salePrice": 245,
+      "websiteURL": "https://www.penseru.com/shop/p/flora-fauna-artistry"
     },
     {
       "name": "Floral Sanctuary",
@@ -713,7 +679,8 @@
         "Lavender Pillow Mist",
         "Handmade Daisy Real Flower Ring"
       ],
-      "salePrice": 145
+      "salePrice": 145,
+      "websiteURL": "https://www.penseru.com/shop/p/floral-sanctuary"
     },
     {
       "name": "Garden Bliss",
@@ -727,26 +694,11 @@
         "Calm Aromatherapy Beeswax Candle",
         "Floral Fabric Wrapped Soaps"
       ],
-      "salePrice": 110
+      "salePrice": 110,
+      "websiteURL": "https://www.penseru.com/shop/p/garden-bliss"
     },
     {
-      "name": "Garden Botanist",
-      "products": [
-        "Rose Clay Face Mask to help balance and tone - 50g",
-        "Handmade Real Flower Bookmark",
-        "Lavender Bath Truffle - 50g",
-        "Handmade Dried Lavender Bouquet",
-        "Lavender Scented Room Spray",
-        "Queen Bee Beeswax Soap Bar 65g | Lavender",
-        "Grapefruit Vegan & Organic Lip Balm ~ 15g",
-        "Lavender Calm Sleep Balm - 30g, Handmade In Dorset",
-        "Sisal Soap Bag",
-        "Dried Flower Arrangement - Pink"
-      ],
-      "salePrice": 95
-    },
-    {
-      "name": "Garden Indulgences-change name",
+      "name": "Garden Indulgences",
       "products": [
         "Butterfly Handmade Cup",
         "Garden Green Fern Unscented Eye Pillow",
@@ -756,24 +708,8 @@
         "Handmade Strawberry & Champagne Jam 340g",
         "Handmade Dark Pink Anemone Real Petal Earrings"
       ],
-      "salePrice": 130
-    },
-    {
-      "name": "Garden Sanctuary",
-      "products": [
-        "Garden Green Fern Lavender Eye Pillow",
-        "Black Leaf Handmade Goat's Milk Soap",
-        "Handmade Yorkshire Honey 125g",
-        "Handmade Ceramic Cup - Pink",
-        "Handmade Lemongrass & Ginger Hand & Body Lotion",
-        "Sisal Soap Bag",
-        "Hand-Knitted Face/Body Scrubs",
-        "Dried Flower Arrangement - Natural",
-        "Wooden Honey Dipper",
-        "Handmade Calendula Salve",
-        "Light & Gentle Face & Neck Serum - Smoothing & Conditioning"
-      ],
-      "salePrice": 170
+      "salePrice": 130,
+      "websiteURL": "https://www.penseru.com/shop/p/garden-indulgences"
     },
     {
       "name": "Garden Whispers",
@@ -785,7 +721,8 @@
         "200g Natural Jute Twine",
         "Floral Fabric Wrapped Soaps"
       ],
-      "salePrice": 75
+      "salePrice": 75,
+      "websiteURL": "https://www.penseru.com/shop/p/garden-whispers"
     },
     {
       "name": "Gardener's Grooming",
@@ -798,7 +735,8 @@
         "Kent Brushes Medium Ivory Synthetic Shaving Brush",
         "Kent Brushes White Bristle Nail Brush "
       ],
-      "salePrice": 135
+      "salePrice": 135,
+      "websiteURL": "https://www.penseru.com/shop/p/gardeners-grooming"
     },
     {
       "name": "Gardener's Oasis",
@@ -809,7 +747,8 @@
         "200g Natural Jute Twine",
         "Natural Gardener's Muscle Rub - Essential Oils"
       ],
-      "salePrice": 75
+      "salePrice": 75,
+      "websiteURL": "https://www.penseru.com/shop/p/gardeners-oasis"
     },
     {
       "name": "Gentleman's Morning",
@@ -824,7 +763,8 @@
         "Handmade Oat Milk Hot Chocolate (Low Sugar)",
         "Kinalba Cashmere Grey Socks"
       ],
-      "salePrice": 90
+      "salePrice": 90,
+      "websiteURL": "https://www.penseru.com/shop/p/gentlemans-morning"
     },
     {
       "name": "Gentleman's Quarters",
@@ -835,7 +775,8 @@
         "Kinalba Cashmere Grey Socks",
         "English Pewter Wine Lovers Bookmark"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/gentlemans-quarters"
     },
     {
       "name": "Gentleman's Retreat",
@@ -848,22 +789,8 @@
         "Kinalba Cashmere Grey Socks",
         "Hand Thrown Ceramic Mug - Rae Downey"
       ],
-      "salePrice": 170
-    },
-    {
-      "name": "Gentleman's Study",
-      "products": [
-        "Handmade Men's Lemongrass and Patchouli Shaving Soap",
-        "Handmade Gentleman's Lounge Hand & Body Lotion",
-        "Goats Milk Cedar and Cypress Shaving Soap",
-        "Brazil Vinte Coarse Ground Coffee",
-        "Hand Thrown Pink Espresso Mug",
-        "Handmade Wooden Heart Keyring",
-        "Natural Deodorant with Sandalwood & Tea Tree Essential Oils",
-        "Handmade Epoxy Resin Wooden Coaster",
-        "Hand Thrown Blue Espresso Mug"
-      ],
-      "salePrice": 200
+      "salePrice": 170,
+      "websiteURL": "https://www.penseru.com/shop/p/gentlemans-retreat"
     },
     {
       "name": "Gourmet Mornings",
@@ -875,7 +802,8 @@
         "Hand Thrown Green Espresso Cup",
         "Handmade Organic Cotton Tea Towel"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/gourmet-mornings"
     },
     {
       "name": "Green Thumb Retreat",
@@ -888,7 +816,8 @@
         "200g Natural Jute Twine",
         "Kent Brushes White Bristle Nail Brush "
       ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/green-thumb-retreat"
     },
     {
       "name": "Green Thumb Sanctuary",
@@ -901,7 +830,8 @@
         "Natural Gardener's Muscle Rub - Essential Oils",
         "Kent Brushes Oval Nail Brush"
       ],
-      "salePrice": 105
+      "salePrice": 105,
+      "websiteURL": "https://www.penseru.com/shop/p/green-thumb-sanctuary"
     },
     {
       "name": "Grey Comfort",
@@ -912,7 +842,8 @@
         "Hand Knitted Grey Baby Hat with Scarf 6-9 Months",
         "Cosy Cuddles Baby Barrier Cream"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/grey-comfort"
     },
     {
       "name": "Heirloom Cuddles",
@@ -924,7 +855,8 @@
         "Lavender Beeswax Aromatherapy Candle",
         "Newborn Baby Hat with Ears | Pink"
       ],
-      "salePrice": 150
+      "salePrice": 150,
+      "websiteURL": "https://www.penseru.com/shop/p/heirloom-cuddles"
     },
     {
       "name": "Herbal Harmony",
@@ -937,19 +869,8 @@
         "Orange, Geranium & Ylang Ylang Hand Cream - 50g",
         "Gardenia Sterling Silver Studs"
       ],
-      "salePrice": 90
-    },
-    {
-      "name": "Honey & Hive Essentials",
-      "products": [
-        "Scottish Heather Honey",
-        "Wooden Honey Dipper",
-        "Beeswax Skep Candle",
-        "Honeycomb Beeswax Soap Bar 100g",
-        "Lip Balm 15ml",
-        "English Pewter Bee on Honeycomb Trinket Box"
-      ],
-      "salePrice": 75
+      "salePrice": 90,
+      "websiteURL": "https://www.penseru.com/shop/p/herbal-harmony"
     },
     {
       "name": "Lavender & Botanicals",
@@ -962,7 +883,8 @@
         "Kinalba Cashmere Grey Socks",
         "Geranium and Patchouli Whipped Body Butter, Natural & Vegan"
       ],
-      "salePrice": 105
+      "salePrice": 105,
+      "websiteURL": "https://www.penseru.com/shop/p/lavender-botanicals"
     },
     {
       "name": "Lavender Dreams",
@@ -975,7 +897,8 @@
         "Scottish Blossom Honey",
         "Wooden Honey Dipper"
       ],
-      "salePrice": 105
+      "salePrice": 105,
+      "websiteURL": "https://www.penseru.com/shop/p/lavender-dreams"
     },
     {
       "name": "Lavender Fields Relaxation",
@@ -988,20 +911,8 @@
         "Lavender Beeswax Aromatherapy Candle",
         "Lavender Scented Room Spray"
       ],
-      "salePrice": 65
-    },
-    {
-      "name": "Lavender Meadows",
-      "products": [
-        "Handmade Lavender & Lemon with Poppy Lip Scrub",
-        "Orange, Geranium & Ylang Ylang Hand Cream - 50g",
-        "Lavender Lavender Eye Pillow",
-        "Dotty Multi Lavender Sachet",
-        "Handmade Rhubarb & Vanilla Jam 125g",
-        "Queen Bee Beeswax Soap Bar 65g | Lavender",
-        "Scottish Heather Honey"
-      ],
-      "salePrice": 75
+      "salePrice": 65,
+      "websiteURL": "https://www.penseru.com/shop/p/lavender-fields-relaxation"
     },
     {
       "name": "Little Bunny Bliss",
@@ -1011,18 +922,8 @@
         "Cosy Cuddles Shea Butter Baby Soap",
         "Cosy Cuddles Baby Balm with Rosehip Oil"
       ],
-      "salePrice": 130
-    },
-    {
-      "name": "Little Explorer",
-      "products": [
-        "Handcrafted Rabbit",
-        "Cosy Cuddles Baby Balm with Rosehip Oil",
-        "Mouse Onesie and Bib Set | Grey / 6m",
-        "English Pewter Bee Trinket Box",
-        "Hand Knitted Orange Short Leg Romper 0-3 Months"
-      ],
-      "salePrice": 165
+      "salePrice": 130,
+      "websiteURL": "https://www.penseru.com/shop/p/little-bunny-bliss"
     },
     {
       "name": "Little Green Dreams Baby Box",
@@ -1030,7 +931,8 @@
         "Hand Knitted Baby Blanket Cardigan Hat and Bootees Set - Green",
         "Handcrafted Flying Duck"
       ],
-      "salePrice": 120
+      "salePrice": 120,
+      "websiteURL": "https://www.penseru.com/shop/p/little-green-dreams-baby-box"
     },
     {
       "name": "Little Mouse Haven",
@@ -1043,7 +945,8 @@
         "Cosy Cuddles Shea Butter Baby Soap",
         "Reversible Hooded Top | Pale Grey / 6m"
       ],
-      "salePrice": 155
+      "salePrice": 155,
+      "websiteURL": "https://www.penseru.com/shop/p/little-mouse-haven"
     },
     {
       "name": "Little Princess Treasures",
@@ -1055,7 +958,8 @@
         "Witchcraft Candle | Frankincense & Myrrh | 180ml",
         "Cosy Cuddles Shea Butter Baby Soap"
       ],
-      "salePrice": 150
+      "salePrice": 150,
+      "websiteURL": "https://www.penseru.com/shop/p/little-princess-treasures"
     },
     {
       "name": "Mindful Moments",
@@ -1069,7 +973,8 @@
         "Beeswax Honeycomb Pattern Pillar Candle",
         "Handmade Wooden Bookmark - \"Just one more chapter\""
       ],
-      "salePrice": 130
+      "salePrice": 130,
+      "websiteURL": "https://www.penseru.com/shop/p/mindful-moments"
     },
     {
       "name": "Mindful Moments Collection",
@@ -1080,7 +985,8 @@
         "Grapefruit, Bergamot & May Chang Hand Cream - 50g",
         "Handmade Black Eyed Susan Real Flower Earrings"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/mindful-moments-collection"
     },
     {
       "name": "Modern Outdoorsman",
@@ -1091,7 +997,8 @@
         "English Pewter Sycamore & Oak Leaf Necklace",
         "Scottish Heather Honey"
       ],
-      "salePrice": 130
+      "salePrice": 130,
+      "websiteURL": "https://www.penseru.com/shop/p/modern-outdoorsman"
     },
     {
       "name": "Mother & Little One",
@@ -1104,7 +1011,8 @@
         "Handmade Shea Body Butter",
         "Wildflower Blue Lavender Eye Pillow"
       ],
-      "salePrice": 170
+      "salePrice": 170,
+      "websiteURL": "https://www.penseru.com/shop/p/mother-little-one"
     },
     {
       "name": "Mother's Botanical Retreat",
@@ -1117,7 +1025,8 @@
         "Handmade Calendula Oil Roll-on",
         "Handmade Notepad Things To Do"
       ],
-      "salePrice": 110
+      "salePrice": 110,
+      "websiteURL": "https://www.penseru.com/shop/p/mothers-botanical-retreat"
     },
     {
       "name": "Mouse Magic",
@@ -1128,7 +1037,8 @@
         "Cosy Cuddles Baby Balm with Rosehip Oil",
         "Hooded Cardigan 6-9m"
       ],
-      "salePrice": 130
+      "salePrice": 130,
+      "websiteURL": "https://www.penseru.com/shop/p/mouse-magic"
     },
     {
       "name": "Natural Calm",
@@ -1141,7 +1051,8 @@
         "Lip Balm 15ml",
         "Sandalwood & Patchouli Beeswax Soap 100g "
       ],
-      "salePrice": 90
+      "salePrice": 90,
+      "websiteURL": "https://www.penseru.com/shop/p/natural-calm"
     },
     {
       "name": "Natural Nursery",
@@ -1155,7 +1066,8 @@
         "Handmade Baby Headband",
         "Beeswax Candle"
       ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/natural-nursery"
     },
     {
       "name": "Natural Spa Rituals",
@@ -1169,24 +1081,8 @@
         "Peppermint Shampoo Bar 100g",
         "French Lavender Lavender Sachet"
       ],
-      "salePrice": 85
-    },
-    {
-      "name": "Natural Wellness Ritual",
-      "products": [
-        "Light, Daily Face Cream with Seaweed Extract - 100g",
-        "Frankincense Facial Oil - 30ml",
-        "Super Scalp Oil - with Rosemary & Rosehip Oils - 50ml",
-        "Green Tea & Aloe Vera Face Mask to help minimise pores - 50g",
-        "Kinalba Cashmere Grey Socks",
-        "Headache Balm - 30g Handmade In Dorset",
-        "Handmade Cocoa Body Butter",
-        "Clarify Beeswax Aromatherapy Candle (Lime, Basil & Mandarin)",
-        "Handmade Lemon Curd 125g",
-        "Reusable Tea Bag",
-        "Handmade Olive Wood Cup"
-      ],
-      "salePrice": 140
+      "salePrice": 85,
+      "websiteURL": "https://www.penseru.com/shop/p/natural-spa-rituals"
     },
     {
       "name": "Nature's Artistry",
@@ -1199,7 +1095,8 @@
         "Scottish Blossom Honey",
         "Hand-drawn Chrysanthemum Print"
       ],
-      "salePrice": 180
+      "salePrice": 180,
+      "websiteURL": "https://www.penseru.com/shop/p/natures-artistry"
     },
     {
       "name": "New Beginnings",
@@ -1212,7 +1109,8 @@
         "Handmade Baby Bobble Hat 0-3 Months",
         "Handcrafted Rabbit"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/new-beginnings"
     },
     {
       "name": "New Beginnings Collection",
@@ -1225,7 +1123,8 @@
         "Speckled Pink/Blue/White Cardigan 0-3 months",
         "Handcrafted Rabbit"
       ],
-      "salePrice": 140
+      "salePrice": 140,
+      "websiteURL": "https://www.penseru.com/shop/p/new-beginnings-collection"
     },
     {
       "name": "New Mother Nurturing Collection",
@@ -1237,7 +1136,8 @@
         "Orange, Geranium & Ylang Ylang Hand Cream - 50g",
         "Headache Balm - 30g Handmade In Dorset"
       ],
-      "salePrice": 65
+      "salePrice": 65,
+      "websiteURL": "https://www.penseru.com/shop/p/new-mother-nurturing-collection"
     },
     {
       "name": "New Parent Retreat",
@@ -1254,7 +1154,8 @@
         "Newborn Baby Hat with Ears | Grey",
         "Alpaca Bed Socks"
       ],
-      "salePrice": 215
+      "salePrice": 215,
+      "websiteURL": "https://www.penseru.com/shop/p/new-parent-retreat"
     },
     {
       "name": "New Parents' Sanctuary",
@@ -1265,7 +1166,8 @@
         "Lavender & Bergamot Hand Cream - 50g",
         "Cucumber & Rosehip Cooling Eye Gel with Hyaluronic Acid"
       ],
-      "salePrice": 125
+      "salePrice": 125,
+      "websiteURL": "https://www.penseru.com/shop/p/new-parents-sanctuary"
     },
     {
       "name": "Nurturing Beginnings",
@@ -1279,7 +1181,8 @@
         "Handmade Calendula Salve",
         "Bumblebee Lavender Sachet"
       ],
-      "salePrice": 155
+      "salePrice": 155,
+      "websiteURL": "https://www.penseru.com/shop/p/nurturing-beginnings"
     },
     {
       "name": "Pastel Paradise",
@@ -1289,7 +1192,8 @@
         "Handcrafted Rabbit",
         "Cosy Cuddles Baby Barrier Cream"
       ],
-      "salePrice": 100
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/pastel-paradise"
     },
     {
       "name": "Peaceful Beginnings",
@@ -1302,7 +1206,8 @@
         "Lavender Pillow Mist",
         "Handmade Calendula Salve"
       ],
-      "salePrice": 175
+      "salePrice": 175,
+      "websiteURL": "https://www.penseru.com/shop/p/peaceful-beginnings"
     },
     {
       "name": "Peaceful Moments",
@@ -1315,19 +1220,8 @@
         "Handmade Lemon & Elderflower Marmalade 227g",
         "Butterfly Ceramic Glazed Sterling Silver Necklace"
       ],
-      "salePrice": 120
-    },
-    {
-      "name": "Petite Treasures",
-      "products": [
-        "Handcrafted Rabbit",
-        "Beeswax Guest Soap 20g | Lavender",
-        "Handmade Crochet Tea Light Holder",
-        "Handmade Lemon Curd 125g",
-        "Peppermint Vegan and Organic Lip Balm 15g, Made In Dorset",
-        "Handmade Wildflower Necklace with Chain"
-      ],
-      "salePrice": 95
+      "salePrice": 120,
+      "websiteURL": "https://www.penseru.com/shop/p/peaceful-moments"
     },
     {
       "name": "Pink Blossom",
@@ -1336,7 +1230,8 @@
         "Cosy Cuddles Baby Barrier Cream",
         "Handcrafted Rabbit"
       ],
-      "salePrice": 90
+      "salePrice": 90,
+      "websiteURL": "https://www.penseru.com/shop/p/pink-blossom"
     },
     {
       "name": "Pink Dreams",
@@ -1346,7 +1241,8 @@
         "Newborn Baby Hat with Ears | Pink",
         "Handcrafted Rabbit"
       ],
-      "salePrice": 110
+      "salePrice": 110,
+      "websiteURL": "https://www.penseru.com/shop/p/pink-dreams"
     },
     {
       "name": "Precious Beginnings",
@@ -1360,17 +1256,8 @@
         "Beeswax Candle",
         "Highland Cattle Lavender Sachet"
       ],
-      "salePrice": 100
-    },
-    {
-      "name": "Precious Little One",
-      "products": [
-        "Handcrafted Rabbit",
-        "Cosy Cuddles Shea Butter Baby Soap",
-        "Cosy Cuddles Baby Barrier Cream",
-        "Hand Knitted Coffee Bodysuit 6-9m"
-      ],
-      "salePrice": 125
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/precious-beginnings"
     },
     {
       "name": "Precious Moments",
@@ -1383,7 +1270,8 @@
         "Handcrafted Flying Duck",
         "English Pewter Heart Trinket Box with Amethyst Stone"
       ],
-      "salePrice": 185
+      "salePrice": 185,
+      "websiteURL": "https://www.penseru.com/shop/p/precious-moments"
     },
     {
       "name": "Pure Elegance",
@@ -1393,7 +1281,8 @@
         "Patchouli Lime Salt Handmade Goats Milk Bar",
         "Sisal Soap Bag"
       ],
-      "salePrice": 95
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/pure-elegance"
     },
     {
       "name": "Seasonal Bloom",
@@ -1406,18 +1295,8 @@
         "Reusable Tea Bag",
         "Dotty Multi Lavender Sachet"
       ],
-      "salePrice": 75
-    },
-    {
-      "name": "Seasonal Treasures",
-      "products": [
-        "Handmade Rhubarb & Vanilla Jam 125g",
-        "Scottish Heather Honey",
-        "Handmade Lemon Curd 125g",
-        "Hand-Knitted Face/Body Scrubs",
-        "Highland Cattle Lavender Sachet"
-      ],
-      "salePrice": 65
+      "salePrice": 75,
+      "websiteURL": "https://www.penseru.com/shop/p/seasonal-bloom"
     },
     {
       "name": "Self-Care Sanctuary",
@@ -1430,7 +1309,8 @@
         "Handmade Yorkshire Honey 125g",
         "Cucumber & Rosehip Cooling Eye Gel with Hyaluronic Acid"
       ],
-      "salePrice": 80
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/self-care-sanctuary"
     },
     {
       "name": "Serene Moments",
@@ -1444,7 +1324,8 @@
         "Wooden Honey Dipper",
         "Handmade Ceramic Vase"
       ],
-      "salePrice": 130
+      "salePrice": 130,
+      "websiteURL": "https://www.penseru.com/shop/p/serene-moments"
     },
     {
       "name": "Serene Spaces",
@@ -1457,7 +1338,8 @@
         "Citronella Beeswax Aromatherapy Candle",
         "Handmade White Vase"
       ],
-      "salePrice": 135
+      "salePrice": 135,
+      "websiteURL": "https://www.penseru.com/shop/p/serene-spaces"
     },
     {
       "name": "Sleepy Whiskers",
@@ -1469,7 +1351,8 @@
         "Cosy Cuddles Shea Butter Baby Soap",
         "Bumblebee Lavender Eye Pillow"
       ],
-      "salePrice": 120
+      "salePrice": 120,
+      "websiteURL": "https://www.penseru.com/shop/p/sleepy-whiskers"
     },
     {
       "name": "Sunshine Smiles",
@@ -1480,7 +1363,8 @@
         "Cosy Cuddles Shea Butter Baby Soap",
         "Hooded Cardigan 0-3m"
       ],
-      "salePrice": 95
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/sunshine-smiles"
     },
     {
       "name": "Sweet Beginnings",
@@ -1492,7 +1376,8 @@
         "English Pewter Bee Trinket Box",
         "Hand Knitted Dusky Pink Cardigan 3-6 Months"
       ],
-      "salePrice": 135
+      "salePrice": 135,
+      "websiteURL": "https://www.penseru.com/shop/p/sweet-beginnings"
     },
     {
       "name": "Sweet Dreams",
@@ -1505,7 +1390,8 @@
         "Endless Love New Baby Soy Wax Candle",
         "Bumblebee Lavender Eye Pillow"
       ],
-      "salePrice": 110
+      "salePrice": 110,
+      "websiteURL": "https://www.penseru.com/shop/p/sweet-dreams"
     },
     {
       "name": "Tranquil Traditions",
@@ -1519,7 +1405,8 @@
         "Handmade Purple Larkspur Real Flower Earrings",
         "Beeswax Candle"
       ],
-      "salePrice": 95
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/tranquil-traditions"
     },
     {
       "name": "Treasured Moments",
@@ -1532,17 +1419,8 @@
         "Bundle of Giggles New Baby Soy Wax Candle",
         "Handpainted Owl in Frame"
       ],
-      "salePrice": 195
-    },
-    {
-      "name": "Welcome Little One",
-      "products": [
-        "Large Handcrafted Rabbit",
-        "Handmade Baby Clothes 4 Girls",
-        "Cosy Cuddles Baby Barrier Cream",
-        "Cosy Cuddles Shea Butter Baby Soap"
-      ],
-      "salePrice": 110
+      "salePrice": 195,
+      "websiteURL": "https://www.penseru.com/shop/p/treasured-moments"
     },
     {
       "name": "Woodland Retreat",
@@ -1553,8 +1431,14 @@
         "Wooden Honey Dipper",
         "Scottish Heather Honey"
       ],
-      "salePrice": 70
+      "salePrice": 70,
+      "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-11T20:20:44.709Z"
+  "lastUpdated": "2025-06-11T21:14:44.499Z",
+  "deliveryInfo": {
+    "mainlandUK": "FREE delivery to mainland UK",
+    "international": "For delivery to other countries, customers need to contact us",
+    "contactPage": "https://www.penseru.com/get-in-touch"
+  }
 }
