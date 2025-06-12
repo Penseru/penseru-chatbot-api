@@ -13,7 +13,7 @@
         "Handmade Ceramic Egg Cup"
       ],
       "salePrice": 110,
-      "websiteURL": "https://www.penseru.com/shop/p/artisanal-teatime"
+      "websiteURL": "https://www.penseru.com/shop/p/artisans-breakfast"
     },
     {
       "name": "Artisan's Haven",
@@ -29,7 +29,7 @@
         "Handmade Rhubarb & Vanilla Jam 227g"
       ],
       "salePrice": 165,
-      "websiteURL": "https://www.penseru.com/shop/p/artisans-breakfast"
+      "websiteURL": "https://www.penseru.com/shop/p/artisans-haven"
     },
     {
       "name": "Artisan's Kitchen",
@@ -45,22 +45,6 @@
         "Hand Thrown Blue Espresso Mug"
       ],
       "salePrice": 135,
-      "websiteURL": "https://www.penseru.com/shop/p/artisans-haven"
-    },
-    {
-      "name": "Artisan's Pantry",
-      "products": [
-        "Turned Walnut Bowl",
-        "Hot Honey Scotch Bonnet",
-        "Dried Mint & Cornish Sea Salt Rub",
-        "Szechuan Salt & Pepper",
-        "Handmade Olive Wood Chopping Board",
-        "Colombian Zarza Ground Roast Coffee - 250g",
-        "Cox & Co Dark Chocolate - Single Origin",
-        "Scottish Heather Honey",
-        "Wooden Honey Dipper"
-      ],
-      "salePrice": 170,
       "websiteURL": "https://www.penseru.com/shop/p/artisans-kitchen"
     },
     {
@@ -1435,7 +1419,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-12T16:20:47.774Z",
+  "lastUpdated": "2025-06-12T17:06:40.854Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
