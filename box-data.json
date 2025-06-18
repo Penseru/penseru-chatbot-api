@@ -1283,6 +1283,21 @@
       "websiteURL": "https://www.penseru.com/shop/p/pure-elegance"
     },
     {
+      "name": "Purple Serenity",
+      "products": [
+        "Dried Flower Arrangement - Purple",
+        "Lavender Unscented Eye Pillow",
+        "French Lavender Lavender Sachet",
+        "Reusable Tea Bag",
+        "Tregothnan Classic Loose Leaf Tea Tin - Grown in Cornwall",
+        "Handmade Lemon Curd 125g",
+        "Headache Balm - 30g Handmade In Dorset",
+        "Grapefruit, Bergamot & May Chang Hand Cream - 50g"
+      ],
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/purple-serenity"
+    },
+    {
       "name": "Seasonal Bloom",
       "products": [
         "Handmade Blackberry & Elderflower Jam 340g",
@@ -1433,7 +1448,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-18T12:20:44.967Z",
+  "lastUpdated": "2025-06-18T13:20:47.581Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
