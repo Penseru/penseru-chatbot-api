@@ -1298,6 +1298,20 @@
       "websiteURL": "https://www.penseru.com/shop/p/purple-serenity"
     },
     {
+      "name": "Rose Garden Sanctuary",
+      "products": [
+        "Dried Flower Arrangement - Pink",
+        "Alpaca Bed Socks",
+        "Calm and Focus Room and Linen Spray - 100g",
+        "Gardener's Lavender Hand Cream",
+        "Tregothnan Black Tea Selection Box - Grown in Cornwall",
+        "Handmade Strawberry & Champagne Jam 340g",
+        "Hand-Knitted Face/Body Scrubs"
+      ],
+      "salePrice": 120,
+      "websiteURL": "https://www.penseru.com/shop/p/https://www.penseru.com/shop/p/rose-garden-sanctuary"
+    },
+    {
       "name": "Seasonal Bloom",
       "products": [
         "Handmade Blackberry & Elderflower Jam 340g",
@@ -1448,7 +1462,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-18T16:20:48.160Z",
+  "lastUpdated": "2025-06-18T17:20:47.620Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
