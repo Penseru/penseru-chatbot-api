@@ -1083,6 +1083,20 @@
       "websiteURL": "https://www.penseru.com/shop/p/natures-artistry"
     },
     {
+      "name": "Nature's Embrace",
+      "products": [
+        "Dried Flower Arrangement - Pink",
+        "Tregothnan English Breakfast - 25 Tea Bags - Grown in Cornwall",
+        "Floral Fabric Wrapped Soaps",
+        "Headache Balm - 30g Handmade In Dorset",
+        "Scottish Heather Honey",
+        "Handmade Lemon Curd 125g",
+        "Hand Thrown Green Bowl"
+      ],
+      "salePrice": 100,
+      "websiteURL": "https://www.penseru.com/shop/p/https://www.penseru.com/shop/p/natures-embrace"
+    },
+    {
       "name": "New Beginnings",
       "products": [
         "Soft Baby Muslin Cloth 60cm",
@@ -1419,7 +1433,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-18T11:20:44.804Z",
+  "lastUpdated": "2025-06-18T12:20:44.967Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
