@@ -213,6 +213,21 @@
       "websiteURL": "https://www.penseru.com/shop/p/botanical-retreat"
     },
     {
+      "name": "Botanical Spa Retreat",
+      "products": [
+        "English Bath Salts",
+        "Plum, Rose and Patchouli Soy Wax Melt Beads",
+        "Light, Daily Face Cream with Seaweed Extract - 100g",
+        "Lavender Scented Room Spray",
+        "Sisal Soap Bag",
+        "Honey & Chocolate Beeswax Soap Bar 100g",
+        "Handmade Lantana Real Flower Pendant and Necklace",
+        "Wax Melt Burner-Jasmine"
+      ],
+      "salePrice": 135,
+      "websiteURL": "https://www.penseru.com/shop/p/https://www.penseru.com/shop/p/botanical-spa-retreat"
+    },
+    {
       "name": "Botanical Treasures",
       "products": [
         "Dried Flower Arrangement - Purple",
@@ -1462,7 +1477,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-25T10:20:47.618Z",
+  "lastUpdated": "2025-06-25T11:20:47.482Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
