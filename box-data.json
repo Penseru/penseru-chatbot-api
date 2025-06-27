@@ -961,21 +961,6 @@
       "websiteURL": "https://www.penseru.com/shop/p/little-princess-treasures"
     },
     {
-      "name": "Mindful Moments",
-      "products": [
-        "Lavender Lavender Eye Pillow",
-        "Bumblebee Lavender Sachet",
-        "Handmade Face Clay Mask 100g",
-        "Handmade Calendula Sugar Scrub",
-        "Handmade Shea Body Butter",
-        "Chill Pill Spiced Apple Handmade Tea",
-        "Beeswax Honeycomb Pattern Pillar Candle",
-        "Handmade Wooden Bookmark - \"Just one more chapter\""
-      ],
-      "salePrice": 120,
-      "websiteURL": "https://www.penseru.com/shop/p/mindful-moments"
-    },
-    {
       "name": "Mindful Moments Collection",
       "products": [
         "Wildflower Blue Unscented Eye Pillow",
@@ -1477,7 +1462,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-27T13:20:49.059Z",
+  "lastUpdated": "2025-06-27T14:20:48.526Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
