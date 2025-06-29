@@ -458,18 +458,6 @@
       "websiteURL": "https://www.penseru.com/shop/p/cottage-garden-serenity"
     },
     {
-      "name": "Country Garden Luxury Baby Gift Box",
-      "products": [
-        "Hand Knitted Green & White 0-3 Month Baby Set",
-        "Handcrafted Bunny in Sweater and Plaid Trousers",
-        "Sisal Soap Bag",
-        "Handmade Honey & Oats Goat Milk Soap",
-        "Handcrafted Rabbit/Mouse Clothing"
-      ],
-      "salePrice": 65,
-      "websiteURL": "https://www.penseru.com/shop/p/country-garden"
-    },
-    {
       "name": "Countryside Comforts",
       "products": [
         "Handmade Rhubarb & Vanilla Jam 227g",
@@ -478,9 +466,11 @@
         "Reusable Tea Bag",
         "Kinalba Cashmere Grey Socks",
         "Handmade Elegant Elderflower Jelly 125g",
-        "Scottish Heather Honey"
+        "Scottish Heather Honey",
+        "Cucumber & Rosehip Cooling Eye Gel with Hyaluronic Acid",
+        "Handmade Natural Espresso Cup"
       ],
-      "salePrice": 55,
+      "salePrice": 75,
       "websiteURL": "https://www.penseru.com/shop/p/countryside-comforts"
     },
     {
@@ -545,9 +535,11 @@
         "Jasmine Green Tea - 50g Loose - Grown in Cornwall",
         "Reusable Tea Bag",
         "Cuban Havana Handmade Scented Candle",
-        "Handmade Blackberry & Elderflower Jam 125g"
+        "Handmade Blackberry & Elderflower Jam 125g",
+        "Handmade Lemon Curd 125g",
+        "Headache Balm - 30g Handmade In Dorset"
       ],
-      "salePrice": 80,
+      "salePrice": 90,
       "websiteURL": "https://www.penseru.com/shop/p/distinguished-calm"
     },
     {
@@ -646,9 +638,10 @@
         "Cox & Co Dark Chocolate - Single Origin",
         "Tregothnan English Breakfast - 25 Tea Bags - Grown in Cornwall",
         "Kinalba Cashmere Grey Socks",
-        "Reusable Tea Bag"
+        "Reusable Tea Bag",
+        "Olive Oil Enriched Gift Soap - Keep Calm and Lather On"
       ],
-      "salePrice": 60,
+      "salePrice": 65,
       "websiteURL": "https://www.penseru.com/shop/p/everyday-luxuries"
     },
     {
@@ -718,9 +711,11 @@
         "Scottish Blossom Honey",
         "Gardener's Handscrub",
         "200g Natural Jute Twine",
-        "Floral Fabric Wrapped Soaps"
+        "Floral Fabric Wrapped Soaps",
+        "Witchcraft Candle | Frankincense & Myrrh | 180ml",
+        "Alpaca Bed Socks"
       ],
-      "salePrice": 55,
+      "salePrice": 80,
       "websiteURL": "https://www.penseru.com/shop/p/garden-whispers"
     },
     {
@@ -744,7 +739,8 @@
         "Gardener's Lavender Olive Handwash 500ml",
         "Tregothnan Black Tea Selection Box - Grown in Cornwall",
         "200g Natural Jute Twine",
-        "Natural Gardener's Muscle Rub - Essential Oils"
+        "Natural Gardener's Muscle Rub - Essential Oils",
+        "Handmade Large Blue Ceramic Mug"
       ],
       "salePrice": 55,
       "websiteURL": "https://www.penseru.com/shop/p/gardeners-oasis"
@@ -1462,7 +1458,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-29T09:20:45.656Z",
+  "lastUpdated": "2025-06-29T10:20:45.094Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
