@@ -562,7 +562,6 @@
     {
       "name": "Dreamland Lullaby",
       "products": [
-        "Hooded Cardigan 0-3m",
         "Extra Large Mouse Blanket | Blue Mice",
         "Newborn Baby Hat with Ears | Blue",
         "Newborn Baby Hat with Ears | Grey",
@@ -571,7 +570,7 @@
         "French Lavender Lavender Sachet",
         "Human Alarm Clock New Baby Soy Wax Candle"
       ],
-      "salePrice": 90,
+      "salePrice": 75,
       "websiteURL": "https://www.penseru.com/shop/p/dreamland-lullaby"
     },
     {
@@ -1458,7 +1457,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
     }
   ],
-  "lastUpdated": "2025-06-30T13:20:48.841Z",
+  "lastUpdated": "2025-06-30T14:20:47.626Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
