@@ -99,6 +99,20 @@
       "websiteURL": "https://www.penseru.com/shop/p/baby-blossoms"
     },
     {
+      "name": "Baby's First Treasures",
+      "products": [
+        "Kent Brushes Fish Shaped Baby Brush",
+        "Handcrafted Rabbit",
+        "Soft Baby Muslin Cloth 60cm",
+        "Cosy Cuddles Baby Balm with Rosehip Oil",
+        "Cosy Cuddles Shea Butter Baby Soap",
+        "Baby Alpaca and Merino Wool Regal Cardigan 6-9 months",
+        "Hand Knitted Natural 3-6 Month Romper"
+      ],
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/babys-first-treasures"
+    },
+    {
       "name": "Beekeepers Bounty",
       "products": [
         "Honeycomb Beeswax Soap Bar 100g",
@@ -388,6 +402,35 @@
       ],
       "salePrice": 65,
       "websiteURL": "https://www.penseru.com/shop/p/comfort-calm"
+    },
+    {
+      "name": "Cornish Morning Bliss",
+      "products": [
+        "Handmade Dried Lavender Bouquet",
+        "Hanging Planter Pocket",
+        "Light, Daily Face Cream with Seaweed Extract - 100g",
+        "Lavender & Bergamot Hand Cream - 50g",
+        "Frankincense & Bergamot Scented Olive Oil Enriched Gift Soap",
+        "Handmade Daisy Real Flower Circular Earrings ",
+        "Handmade Daisy in Resin Real Flower Pendant and Necklace",
+        "Tregothnan Black Tea Selection Box - Grown in Cornwall",
+        "Porcelain House Decoration - Jasmine",
+        "Moorland Ceramic Mug - Home"
+      ],
+      "salePrice": 115,
+      "websiteURL": "https://www.penseru.com/shop/p/cornish-morning-bliss"
+    },
+    {
+      "name": "Cornish Tea Garden",
+      "products": [
+        "Miller's Cheddar Buttercrumb Biscuits",
+        "Handmade Organic Cotton Tea Towel",
+        "Handmade Rhubarb & Vanilla Jam 227g",
+        "Hand Thrown Ceramic Mug - Rae Downey",
+        "Earl Grey - 25 Tea Bags - Grown in Cornwall"
+      ],
+      "salePrice": 65,
+      "websiteURL": "https://www.penseru.com/shop/p/cornish-tea-garden"
     },
     {
       "name": "Cosy Beginnings",
@@ -703,6 +746,20 @@
       "websiteURL": "https://www.penseru.com/shop/p/garden-indulgences"
     },
     {
+      "name": "Garden Rose Retreat",
+      "products": [
+        "Floral English Linen and Leather Gloves - Pink/Small",
+        "Gardener's Handscrub",
+        "Floral Fabric Wrapped Soaps",
+        "Gardener's Lavender Hand Cream",
+        "Natural Gardener's Muscle Rub - Essential Oils",
+        "Leather Flower Scissor Pouch - Brown & Green Scissors",
+        "Kent Brushes White Bristle Nail Brush "
+      ],
+      "salePrice": 85,
+      "websiteURL": "https://www.penseru.com/shop/p/garden-rose-retreat"
+    },
+    {
       "name": "Garden Whispers",
       "products": [
         "Gardener's Lavender Hand Cream",
@@ -787,6 +844,21 @@
       "websiteURL": "https://www.penseru.com/shop/p/gentlemans-retreat"
     },
     {
+      "name": "Golden Garden Sanctuary",
+      "products": [
+        "Dried Flower Arrangement - Yellow",
+        "Handmade Dark Pink Anemone Real Petal Earrings",
+        "Hanging Planter Pocket",
+        "Soap Dish-Peony",
+        "Grapefruit Vegan & Organic Lip Balm ~ 15g",
+        "Sisal Soap Bag",
+        "Honey & Chocolate Beeswax Soap Bar 100g",
+        "Calm Aromatherapy Beeswax Candle"
+      ],
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/golden-garden-sanctuary"
+    },
+    {
       "name": "Gourmet Mornings",
       "products": [
         "Cacao & Hazelnut Artisan Honey 227g",
@@ -867,6 +939,43 @@
       "websiteURL": "https://www.penseru.com/shop/p/herbal-harmony"
     },
     {
+      "name": "Heritage Gardener's Spa",
+      "products": [
+        "Handmade Gardener's Bath Soak - Essential Oils Salts",
+        "Gardener's Lavender Hand Cream",
+        "Handmade Calendula Salve",
+        "Kent Brushes White Bristle Nail Brush ",
+        "Floral English Linen and Leather Gloves - Green/Small",
+        "Leather Flower Scissor Pouch - Brown & Green Scissors"
+      ],
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/heritage-gardeners-spa"
+    },
+    {
+      "name": "Keighley Christening Blessings",
+      "products": [
+        "Hand Knitted in Keighley Purple Cardigan - SIZE",
+        "Extra Large Mouse Blanket | Pink Mice",
+        "English Pewter Egg Cup & Spoon Christening Gift",
+        "Kent Brushes Fish Shaped Baby Brush",
+        "Handcrafted Sheep Toy"
+      ],
+      "salePrice": 110,
+      "websiteURL": "https://www.penseru.com/shop/p/keighley-christening-blessing"
+    },
+    {
+      "name": "Kitchen Garden Feast",
+      "products": [
+        "Fig, Honey & Extra Virgin Olive Oil Crackers",
+        "Reed Diffuser Pot-Safflower",
+        "Handmade Lemon & Elderflower Marmalade 227g",
+        "Handmade Salted Caramel Sauce 220g",
+        "Handmade Organic Cotton Tea Towel"
+      ],
+      "salePrice": 55,
+      "websiteURL": "https://www.penseru.com/shop/p/kitchen-garden-feast"
+    },
+    {
       "name": "Lavender & Botanicals",
       "products": [
         "Botanical Sleep Easy Wax Drops | Lavender and Spearmint",
@@ -907,6 +1016,33 @@
       ],
       "salePrice": 55,
       "websiteURL": "https://www.penseru.com/shop/p/lavender-fields-relaxation"
+    },
+    {
+      "name": "Lavender Sanctuary",
+      "products": [
+        "Alpaca Bed Socks",
+        "Bumblebee Lavender Sachet",
+        "Bumblebee Lavender Eye Pillow",
+        "Handmade Lavender Real Flower Earrings",
+        "Handmade Epsom Salt, Rosemary & Pine Bath Soak - Restore",
+        "Hanging Planter Pocket",
+        "Dried Flower Arrangement - Purple",
+        "Handmade Lavender Body Butter"
+      ],
+      "salePrice": 105,
+      "websiteURL": "https://www.penseru.com/shop/p/lavender-sanctuary"
+    },
+    {
+      "name": "Liberty Coffee Dreams",
+      "products": [
+        "Liberty Felicite Yellow Ruffle Collar Onesie | 6m",
+        "Handcrafted Flying Duck",
+        "Sisal Soap Bag",
+        "Black Leaf Handmade Goat's Milk Soap",
+        "Hand Knitted Coffee Bodysuit 6-9m"
+      ],
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/liberty-coffee-dreams"
     },
     {
       "name": "Little Bunny Bliss",
@@ -954,6 +1090,19 @@
       ],
       "salePrice": 95,
       "websiteURL": "https://www.penseru.com/shop/p/little-princess-treasures"
+    },
+    {
+      "name": "Master Gardener's Arsenal",
+      "products": [
+        "Heritage Leather Gardening Gloves - Large",
+        "Leather Flower Scissor Pouch - Brown & Green Scissors",
+        "200g Natural Jute Twine",
+        "Gardener's Lavender Olive Handwash 500ml",
+        "Handmade Gardener's Bath Soak - Essential Oils Salts",
+        "Dirty Hands Exfoliating Orange Oil Handscrub Hand Soap"
+      ],
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/master-gardeners-arsenal"
     },
     {
       "name": "Mindful Moments Collection",
@@ -1321,6 +1470,21 @@
       "websiteURL": "https://www.penseru.com/shop/p/seasonal-bloom"
     },
     {
+      "name": "Secret Garden Pamper",
+      "products": [
+        "Small Bouquet of Dried Flowers",
+        "Hanging Planter Pocket",
+        "Gardener's Lavender Hand Cream",
+        "Gardener's Lavender Olive Handwash 500ml",
+        "Dirty Hands Exfoliating Orange Oil Handscrub Hand Soap",
+        "Handmade Gardener's Bath Soak - Essential Oils Salts",
+        "Kent Brushes Oval Nail Brush",
+        "Porcelain Bird Decoration-Daisy"
+      ],
+      "salePrice": 85,
+      "websiteURL": "https://www.penseru.com/shop/p/secret-garden-pamper"
+    },
+    {
       "name": "Self-Care Sanctuary",
       "products": [
         "Bumblebee Unscented Eye Pillow",
@@ -1455,9 +1619,21 @@
       ],
       "salePrice": 50,
       "websiteURL": "https://www.penseru.com/shop/p/woodland-retreat"
+    },
+    {
+      "name": "Yorkshire Coffee & Cuddles",
+      "products": [
+        "Kent Brushes Fish Shaped Baby Brush",
+        "Hand Knitted in Keighley Coffee Cardigan - SIZE",
+        "Extra Large Mouse Blanket | Blue Mice",
+        "Handcrafted Bear Toy",
+        "Beeswax Teddy In A Bow Tie Candle"
+      ],
+      "salePrice": 95,
+      "websiteURL": "https://www.penseru.com/shop/p/yorkshire-coffee-cuddles"
     }
   ],
-  "lastUpdated": "2025-07-17T06:20:44.938Z",
+  "lastUpdated": "2025-07-17T07:20:45.520Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
