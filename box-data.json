@@ -402,6 +402,20 @@
       "websiteURL": "https://www.penseru.com/shop/p/comfort-calm"
     },
     {
+      "name": "Cornish Harvest Table",
+      "products": [
+        "Miller's Harvest Three-Seed Crackers",
+        "Handmade Blackberry & Elderflower Jam 125g",
+        "Handmade Elegant Elderflower Jelly 125g",
+        "Jasmine Green Tea - 50g Loose - Grown in Cornwall",
+        "Cox & Co Dark Chocolate - Raw Cacao Nibs",
+        "Handmade Blue and Black Ceramic Mug",
+        "Reusable Tea Bag"
+      ],
+      "salePrice": 55,
+      "websiteURL": "https://www.penseru.com/shop/p/cornish-harvest-table"
+    },
+    {
       "name": "Cornish Morning Bliss",
       "products": [
         "Handmade Dried Lavender Bouquet",
@@ -1090,6 +1104,17 @@
       "websiteURL": "https://www.penseru.com/shop/p/little-princess-treasures"
     },
     {
+      "name": "Little Treasures First Collection",
+      "products": [
+        "Baby Alpaca and Merino Wool Regal Cardigan  3-6 months",
+        "Pure 100% Baby Alpaca Romper 3-6 months",
+        "Handcrafted Bear Toy",
+        "Kent Brushes Fish Shaped Baby Brush"
+      ],
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/little-treasures"
+    },
+    {
       "name": "Master Gardener's Arsenal",
       "products": [
         "Heritage Leather Gardening Gloves - Large",
@@ -1631,7 +1656,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/yorkshire-coffee-cuddles"
     }
   ],
-  "lastUpdated": "2025-07-28T18:20:45.448Z",
+  "lastUpdated": "2025-07-28T19:20:45.789Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
