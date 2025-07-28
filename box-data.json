@@ -82,6 +82,18 @@
       "websiteURL": "https://www.penseru.com/shop/p/autumn-rose"
     },
     {
+      "name": "Autumn Treasures Collection",
+      "products": [
+        "Hand Knitted Burnt Orange Talia Romper 0-3 months",
+        "Baby Alpaca and Merino Wool Regal Cardigan  3-6 months",
+        "Handcrafted Rabbit",
+        "Cosy Cuddles Baby Barrier Cream",
+        "Kent Brushes Fish Shaped Baby Brush"
+      ],
+      "salePrice": 75,
+      "websiteURL": "https://www.penseru.com/shop/p/autumn-treasures-collection"
+    },
+    {
       "name": "Baby Blossoms",
       "products": [
         "White and Baby Blue Hand-Knitted Cardigan, Hat & Bootees (0-3 months)",
@@ -387,6 +399,23 @@
       "websiteURL": "https://www.penseru.com/shop/p/classic-gentleman"
     },
     {
+      "name": "Coastal Retreat & Wellness Sanctuary",
+      "products": [
+        "Rock Salt and Driftwood Luxury Diffuser",
+        "Reed Diffuser-Daisy",
+        "Alpaca Bed Socks",
+        "Garden Green Fern Lavender Eye Pillow",
+        "Bumblebee Lavender Sachet",
+        "Lavender Beeswax Aromatherapy Candle",
+        "Lavender Calm Sleep Balm - 30g, Handmade In Dorset",
+        "Geranium and Patchouli Whipped Body Butter, Natural & Vegan",
+        "Light, Daily Face Cream with Seaweed Extract - 100g",
+        "Dried Flower Arrangement - Yellow"
+      ],
+      "salePrice": 135,
+      "websiteURL": "https://www.penseru.com/shop/p/coastal-retreat-wellness-sanctuary"
+    },
+    {
       "name": "Comfort & Calm",
       "products": [
         "Kinalba Cashmere Grey Socks",
@@ -580,6 +609,19 @@
       ],
       "salePrice": 50,
       "websiteURL": "https://www.penseru.com/shop/p/daybreak-essentials"
+    },
+    {
+      "name": "Desert Sands Nursery Collection",
+      "products": [
+        "Hand Knitted Sand Cardigan - 6-12 months",
+        "Hand Knitted Sand Mia Romper 3-6 months",
+        "Handcrafted Small Mouse",
+        "Cosy Cuddles Baby Balm with Rosehip Oil",
+        "Cosy Cuddles Baby Barrier Cream",
+        "Cosy Cuddles Shea Butter Baby Soap"
+      ],
+      "salePrice": 75,
+      "websiteURL": "https://www.penseru.com/shop/p/desert-sands-nursery-collection"
     },
     {
       "name": "Distinguished Calm",
@@ -924,6 +966,18 @@
       "websiteURL": "https://www.penseru.com/shop/p/grey-comfort"
     },
     {
+      "name": "Growing Adventures Collection",
+      "products": [
+        "Pure 100% Baby Alpaca Dungarees 9-12 months",
+        "Handcrafted Bear Toy",
+        "Kent Brushes Fish Shaped Baby Brush",
+        "Cosy Cuddles Shea Butter Baby Soap",
+        "Pure 100% Nougat Baby Alpaca Cardigan 6-12 months "
+      ],
+      "salePrice": 85,
+      "websiteURL": "https://www.penseru.com/shop/p/growing-adventures-collection"
+    },
+    {
       "name": "Heirloom Cuddles",
       "products": [
         "Handmade Baby Clothes 1 Girls",
@@ -1068,6 +1122,18 @@
       "websiteURL": "https://www.penseru.com/shop/p/little-bunny-bliss"
     },
     {
+      "name": "Little Explorer's First Adventures",
+      "products": [
+        "Handcrafted Small Mouse",
+        "Pure 100% Baby Alpaca Jumper 3-6 months",
+        "Kent Brushes Fish Shaped Baby Brush",
+        "Cosy Cuddles Baby Barrier Cream",
+        "Hand Knitted Grey Bobble Romper 0-3m"
+      ],
+      "salePrice": 80,
+      "websiteURL": "https://www.penseru.com/shop/p/little-explorers-first-adventures"
+    },
+    {
       "name": "Little Green Dreams Baby Box",
       "products": [
         "Hand Knitted Baby Blanket Cardigan Hat and Bootees Set - Green",
@@ -1091,6 +1157,17 @@
       "websiteURL": "https://www.penseru.com/shop/p/little-mouse-haven"
     },
     {
+      "name": "Little Princess Heritage Collection",
+      "products": [
+        "Pure 100% Baby Alpaca Pinafore 12-18 months",
+        "Baby Alpaca and Merino Wool Regal Cardigan 9-12 months",
+        "Cosy Cuddles Baby Barrier Cream",
+        "Handcrafted Mouse Toy"
+      ],
+      "salePrice": 70,
+      "websiteURL": "https://www.penseru.com/shop/p/little-princess-heritage-collection"
+    },
+    {
       "name": "Little Princess Treasures",
       "products": [
         "Handmade Baby Clothes 3 Girls",
@@ -1112,7 +1189,7 @@
         "Kent Brushes Fish Shaped Baby Brush"
       ],
       "salePrice": 80,
-      "websiteURL": "https://www.penseru.com/shop/p/little-treasures"
+      "websiteURL": "https://www.penseru.com/shop/p/little-treasures-first-collection"
     },
     {
       "name": "Master Gardener's Arsenal",
@@ -1439,6 +1516,18 @@
       "websiteURL": "https://www.penseru.com/shop/p/precious-moments"
     },
     {
+      "name": "Prima Ballerina Dreams Collection",
+      "products": [
+        "Handcrafted Mice Ballerina",
+        "Cosy Cuddles Shea Butter Baby Soap",
+        "Cosy Cuddles Baby Balm with Rosehip Oil",
+        "Hand Knitted Thatcher Sand Cardigan 0-3 months",
+        "Hand Knitted Dusty Rose Romper 0-3m"
+      ],
+      "salePrice": 70,
+      "websiteURL": "https://www.penseru.com/shop/p/prima-ballerina-dreams-collection"
+    },
+    {
       "name": "Pure Elegance",
       "products": [
         "Handcrafted Mice Ballerina",
@@ -1477,6 +1566,18 @@
       ],
       "salePrice": 75,
       "websiteURL": "https://www.penseru.com/shop/p/rose-garden-sanctuary"
+    },
+    {
+      "name": "Sandy Shores Collection",
+      "products": [
+        "Pure 100% Nougat Baby Alpaca Cardigan 6-12 months ",
+        "Hand Knitted Sand Mia Romper 3-6 months",
+        "Cosy Cuddles Shea Butter Baby Soap",
+        "Soft Baby Muslin Cloth 60cm",
+        "Handcrafted Bear Toy"
+      ],
+      "salePrice": 65,
+      "websiteURL": "https://www.penseru.com/shop/p/sandy-shores-collection"
     },
     {
       "name": "Seasonal Bloom",
@@ -1656,7 +1757,7 @@
       "websiteURL": "https://www.penseru.com/shop/p/yorkshire-coffee-cuddles"
     }
   ],
-  "lastUpdated": "2025-07-28T19:20:45.789Z",
+  "lastUpdated": "2025-07-28T20:20:45.462Z",
   "deliveryInfo": {
     "mainlandUK": "FREE delivery to mainland UK",
     "international": "For delivery to other countries, customers need to contact us",
